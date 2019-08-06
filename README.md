@@ -1,3 +1,7 @@
+# This repository was forked from https://github.com/hugorcf.   
+This repo will remain unchanged from the original.
+
+
 # Predicting wind and solar generation from weather data using Machine Learning
 
 Wind and solar generation from weather data is predicted using a linear regression algorithm and a dataset containing energy production and weather information for Germany during 2016.
